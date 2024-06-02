@@ -9,3 +9,7 @@ Este repositório contém o terceiro trabalho desenvolvido para a disciplina de 
 # Exemplo do funcionamento:
 
 ![20240602_115458](https://github.com/Livia003/redes-de-computadores-camada-enlace-controle-erros/assets/103139290/c02683b9-d853-4364-bbef-6b2e6d2b8db0)
+
+## Por que "Bits de Açúcar"?
+
+O nome "Bits de Açúcar" foi escolhido para este projeto porque representa de forma lúdica o foco em mensagens "açucaradas" e agradáveis. A ideia é adoçar a disciplina, que pode ser considerada desafiadora ou até mesmo chata por mim, trazendo um toque de leveza e diversão ao desenvolver e explorar os conceitos da camada física do modelo OSI.
