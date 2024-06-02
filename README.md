@@ -12,4 +12,4 @@ Este repositório contém o terceiro trabalho desenvolvido para a disciplina de 
 
 ## Por que "Bits de Açúcar"?
 
-O nome "Bits de Açúcar" foi escolhido para este projeto porque representa de forma lúdica o foco em mensagens "açucaradas" e agradáveis. A ideia é adoçar a disciplina, que pode ser considerada desafiadora ou até mesmo chata por mim, trazendo um toque de leveza e diversão ao desenvolver e explorar os conceitos da camada física do modelo OSI.
+O nome "Bits de Açúcar" foi escolhido para este projeto porque representa de forma lúdica o foco em mensagens "açucaradas" e agradáveis. A ideia é adoçar a disciplina, que pode ser considerada desafiadora ou até mesmo chata.
