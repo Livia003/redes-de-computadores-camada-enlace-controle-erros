@@ -1,6 +1,6 @@
 # Redes de Computadores I - Simulação da camada de enlace de dados do modelo OSI com abordagem para controle de erros.
 
-Este repositório contém o terceiro trabalho desenvolvido para a disciplina de Redes de Computadores I do curso de Ciência da Computação na Universidade Estadual da Bahia. 
+Este repositório contém o terceiro trabalho desenvolvido para a disciplina de Redes de Computadores I do curso de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia. 
 
 # Descrição
 
